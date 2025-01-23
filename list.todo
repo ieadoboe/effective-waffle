@@ -7,4 +7,15 @@ Notes to self: How to use:
 Tasks:
 
 ☐ Exclusive OR implementation
+☐ curve fitting problem
+☐ function superresolution
+☐ go over the "Introduction to keras tuner" ipynb
+☐ use the keras tuner to do some hyperparameter tuning for 
+☐ look into callbacks
+☐ look into earlystopping (what is patience?)
+☐ look into keras tuner (hyperparameter tuner)
+☐ look into optuna
+☐ look into hyperband
+☐ work on the interpolation problem in assignment 2
+☐ use the knowledge from this to try and figure out how to upsample images
 ☐ 
