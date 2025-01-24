@@ -6,8 +6,8 @@ Notes to self: How to use:
 
 Tasks:
 
-☐ Exclusive OR implementation
-☐ curve fitting problem
+✔ Exclusive OR implementation @done (1/23/2025, 11:28:16 PM)
+✔ curve fitting problem @done (1/23/2025, 11:28:21 PM)
 ☐ function superresolution
 ☐ go over the "Introduction to keras tuner" ipynb
 ☐ use the keras tuner to do some hyperparameter tuning for 
