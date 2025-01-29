@@ -9,13 +9,15 @@ Tasks:
 ✔ Exclusive OR implementation @done (1/23/2025, 11:28:16 PM)
 ✔ curve fitting problem @done (1/23/2025, 11:28:21 PM)
 ✔ function superresolution @done (1/25/2025, 12:29:56 PM)
-☐ go over the "Introduction to keras tuner" ipynb
-☐ use the keras tuner to do some hyperparameter tuning for 
-☐ look into callbacks
-☐ look into earlystopping (what is patience?)
-☐ look into keras tuner (hyperparameter tuner)
+✔ go over the "Introduction to keras tuner" ipynb @done (1/26/2025, 2:29:17 PM)
+✔ use the keras tuner to do some hyperparameter tuning for @done (1/27/2025, 1:18:24 PM)
+✔ look into callbacks @done (1/27/2025, 1:18:27 PM)
+✔ look into earlystopping (what is patience?) @done (1/27/2025, 1:18:31 PM)
+✔ look into keras tuner (hyperparameter tuner) @done (1/27/2025, 1:18:34 PM)
 ☐ look into optuna
 ☐ look into hyperband
-☐ work on the interpolation problem in assignment 2
+✔ work on the interpolation problem in assignment 2 @done (1/27/2025, 1:18:45 PM)
 ☐ use the knowledge from this to try and figure out how to upsample images
+☐ assignment 1
+☐ 
 ☐ 
