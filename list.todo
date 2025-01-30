@@ -15,9 +15,9 @@ Tasks:
 ✔ look into earlystopping (what is patience?) @done (1/27/2025, 1:18:31 PM)
 ✔ look into keras tuner (hyperparameter tuner) @done (1/27/2025, 1:18:34 PM)
 ☐ look into optuna
-☐ look into hyperband
+✔ look into hyperband @done (1/29/2025, 12:50:12 PM)
 ✔ work on the interpolation problem in assignment 2 @done (1/27/2025, 1:18:45 PM)
 ☐ use the knowledge from this to try and figure out how to upsample images
 ☐ assignment 1
-☐ 
-☐ 
+☐ subclassing API review
+☐ image upscaler
