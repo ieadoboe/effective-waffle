@@ -19,8 +19,8 @@ Tasks:
 ✔ assignment @done (2/6/2025, 2:31:50 PM)
 ✔ subclassing API review @done (2/6/2025, 2:32:09 PM)
 ☐ look into optuna
-☐ Read AlexNet paper
-☐ Implement AlexNet and train the same dataset
+✔ Read AlexNet paper @done (2/11/2025, 6:50:49 PM)
+☐ Implement AlexNet and train the same dataset @today 
 ☐ GoogLeNet implementation
 ☐ VGGNet implementation
 ☐ ResNet implementation
