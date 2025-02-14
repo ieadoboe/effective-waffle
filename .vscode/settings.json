@@ -1,5 +1,4 @@
 {
   "python.analysis.languageServerMode": "default",
-  "python.analysis.autoImportCompletions": true,
-  "notebook.defaultFormatter": null
+  "python.analysis.autoImportCompletions": true
 }
