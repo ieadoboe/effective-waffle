@@ -25,6 +25,17 @@ Tasks:
 ✔ VGGNet implementation @done (3/16/2025, 11:09:48 PM)
 ✔ ResNet implementation @done (3/16/2025, 11:09:47 PM)
 ✔ sfu.ca/~ssurijano/optimization.html @done (3/16/2025, 11:09:43 PM)
-☐ image upscaler use the knowledge from this to try and figure out how to upsample images
-☐ Transformer implementation on the image upscaler
+✔ image upscaler use the knowledge from this to try and figure out how to upsample images @done (3/16/2025, 11:23:18 PM)
+☐ LSTM model
+☐ WaveNet model
+☐ understand diffusion models
+☐ positional encodings
+☐ unet model
+☐ 
 
+
+Project ideas:
+
+☐ Transformer implementation on the image upscaler
+☐ Image upscaler (side project)
+☐ 
