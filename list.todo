@@ -20,10 +20,11 @@ Tasks:
 ✔ subclassing API review @done (2/6/2025, 2:32:09 PM)
 ☐ look into optuna
 ✔ Read AlexNet paper @done (2/11/2025, 6:50:49 PM)
-☐ Implement AlexNet and train the same dataset @today 
+✔ Implement AlexNet and train the same dataset @today @done (3/16/2025, 11:09:55 PM)
 ☐ GoogLeNet implementation
-☐ VGGNet implementation
-☐ ResNet implementation
-☐ sfu.ca/~ssurijano/optimization.html
+✔ VGGNet implementation @done (3/16/2025, 11:09:48 PM)
+✔ ResNet implementation @done (3/16/2025, 11:09:47 PM)
+✔ sfu.ca/~ssurijano/optimization.html @done (3/16/2025, 11:09:43 PM)
 ☐ image upscaler use the knowledge from this to try and figure out how to upsample images
-☐ 
+☐ Transformer implementation on the image upscaler
+
